@@ -52,3 +52,5 @@ class Employee implements IEmployee {
 let newEmployee = new Employee(1, "Gara", 22);
 
 console.log(newEmployee);
+
+// test

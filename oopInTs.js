@@ -11,3 +11,4 @@ var Employee = /** @class */ (function () {
 }());
 var newEmployee = new Employee(1, "Gara", 22);
 console.log(newEmployee);
+// test
